@@ -2,7 +2,7 @@
 contact-tracker
 
 <br>
-<br>p
+<br>
 A website that allows users to be able to keep up with their contacts. Users are capable of adding a profile image, location, gender, connections, email, and phone number. Users have the ability to view their contacts and they have the ability to update the information if it is needed. 
 </p>
 <p align="center">

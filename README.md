@@ -32,7 +32,8 @@ A website that allows users to be able to keep up with their contacts. Users are
 To run this project follow the command in `makefile`
 
 - To run:
-`make run`
+- `cd src`
+- `make run`
 
 
 ## Contributors

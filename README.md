@@ -14,6 +14,16 @@ A website that allows users to be able to keep up with their contacts. Users are
 
 ![alt text](https://github.com/Tylerholland12/contact-tracker/blob/main/display.png?raw=true)
 
+
+<p align="center">
+Why Django?
+
+<br>
+<br>
+I chose to utilize django for this assignment becuase I know that there was constraint on time and I knew that with django I would be able to come up with a clean and DRY code solution that is capable of completing this task. With django I was able to utilze some of the templates that are outlined with this framework to create a clean solution. Django has clear and concise documentation that I was able to utilze when I was confused with certain topics and I was able to utilize some helpful resources that I already knew about, such as Makefile, to keep up with common commands that are relevant when working with django. Makefile is a great tool for me to use becuase I don't have to memorize multiple different commands or look back through the documentation to find the proper command. Overall, usign django was able to speed up my process for creating this project and it allowed me to develop well stated models and views along with a slick frontend for the time that I completed this project in. 
+</p>
+
+
 ## Requirements 
 - Python
 - Django and dependencies

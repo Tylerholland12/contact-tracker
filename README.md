@@ -17,8 +17,8 @@ A website that allows users to be able to keep up with their contacts. Users are
 ## Requirements 
 - Python
 - Django and dependencies
-`pip install -r requirements.txt`
-`pip3 install -r requirements.txt`
+- `pip install -r requirements.txt`
+- `pip3 install -r requirements.txt`
 
 
 

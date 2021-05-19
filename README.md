@@ -12,8 +12,7 @@ A website that allows users to be able to keep up with their contacts. Users are
 </p>
 <br>
 
-![alt text](https://github.com/Tylerholland12/contact-tracker
-/blob/main/display.png?raw=true)
+![alt text](https://github.com/Tylerholland12/contact-tracker/blob/main/display.png?raw=true)
 
 ## Requirements 
 - Python

@@ -3,3 +3,4 @@
 pyvenv.cfg
 media/images
 db.sqlite3
+.env
